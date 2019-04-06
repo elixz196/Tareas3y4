@@ -13,7 +13,7 @@ Es también por así llamarlo la clase principal de un programa, seria la clase 
 
 ##  2.  Haz un diagrama UML donde se muestre la relación de herencia entre las  clases Figura, Recangulo y Circulo como vimos en clase.
 
-![Digrama UML](\Pictures\Diagrama.PNG)
+![Digrama UML](https://github.com/elixz196/Tareas3y4/blob/master/Fotos/Diagrama.PNG "Este es el diagrama")
 
 ## 4. ¿Que es herencia simple y herencia múltiple? ¿En c# se puede hacer herencia múltiple?
 
